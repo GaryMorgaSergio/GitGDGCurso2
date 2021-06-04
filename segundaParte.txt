@@ -1,0 +1,8 @@
+Sesion 2:
+    - Adicion de Archivos
+        - git add (nombre del archivo con su extensión);
+        - git add * (Adiciona todos los archivos) 
+    - Status del repositorio (commit, agregaciones, las ramas)
+        - git status
+    - Commit, nos permite agrupar un conjunto de cambios 
+        - git commit -m ("mensajes para el commit")
