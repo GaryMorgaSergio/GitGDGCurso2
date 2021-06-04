@@ -4,4 +4,6 @@ Sesion 1:
     - Inicializar la herramienta de git en un repositorio local
         -git init
     - Fork (realiza la copia de un repositorio externo a un repositorio propio)
+
+    ESTA es una prueba para añadir un control de calidad.
         
