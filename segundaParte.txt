@@ -6,3 +6,9 @@ Sesion 2:
         - git status
     - Commit, nos permite agrupar un conjunto de cambios 
         - git commit -m ("mensajes para el commit")
+    - Enlazar nuestro repositorio remoto al repositorio local 
+        - git remote add origin  (url del repositorio)
+        - git rmote -v (permite ver el repositorio remoto al que estamos enlazados)
+    - Subir cambios al repositorio remoto
+        - git push 
+    Nos quedamos hasta aqui
