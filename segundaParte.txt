@@ -11,5 +11,4 @@ Sesion 2:
         - git rmote -v (permite ver el repositorio remoto al que estamos enlazados)
     - Subir cambios al repositorio remoto
         - git push 
-    - Log ( observar los commit realizados)
-        - git log
+    Nos quedamos hasta aqui
