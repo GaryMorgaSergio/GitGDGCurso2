@@ -13,3 +13,7 @@ Sesion 2:
         - git push 
     - Log ( observar los commit realizados)
         - git log
+    - Restauracion de un archivo 
+        - git restore --staged (nombre del archivo a restaurar)
+    - Navegar a un commit anterior (Cuidado con este comando)
+        - git reset --hard (id del commit al que quiere navegar)
