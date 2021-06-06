@@ -1,0 +1,9 @@
+Sesion 3:
+    - Crear una Rama 
+        - git branch (nombre de la rama)
+    - Observar las ramas existentes 
+        - git branch
+    - Dirigirnos a una rama correspondiente
+        - git checkout nombre de la rama
+    
+    
